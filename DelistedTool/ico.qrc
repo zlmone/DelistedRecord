@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ico1">
+        <file>退板记录.png</file>
+        <file>登录.png</file>
+    </qresource>
+</RCC>
